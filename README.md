@@ -1,9 +1,3 @@
-# WARNING!
-
-This repo is currently a **work in progress** nothing is currently yet working!
-
----
-
 # SymbiFlow Architecture Definitions
 
 [![Build Status](https://travis-ci.org/SymbiFlow/symbiflow-arch-defs.svg?branch=master)](https://travis-ci.org/SymbiFlow/symbiflow-arch-defs)
